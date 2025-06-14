@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\Myfunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\static\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\static\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\models\\respons\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\models\\respons\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\models\\respons\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\models\\respons\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\models\\request\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\models\\request\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\functions\\getallproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\functions\\getallproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\functions\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\functions\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|c:\\repos\\myfunction\\myfunction\\models\\tableentitys\\producentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A6779F-B665-43E5-90F9-68C831D4B413}|Myfunction\\Myfunction.csproj|solutionrelative:myfunction\\models\\tableentitys\\producentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Services\\ProductService.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Services\\ProductService.cs",
+              "RelativeToolTip": "Myfunction\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:51:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Models\\Respons\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Models\\Respons\\ApiErrorResponse.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Models\\Respons\\ApiErrorResponse.cs",
+              "RelativeToolTip": "Myfunction\\Models\\Respons\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:42:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Models\\Request\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Models\\Request\\CreateProductRequest.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Models\\Request\\CreateProductRequest.cs",
+              "RelativeToolTip": "Myfunction\\Models\\Request\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:37:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Services\\IProductService.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Services\\IProductService.cs",
+              "RelativeToolTip": "Myfunction\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:51:10.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Models\\Respons\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Models\\Respons\\ProductResponse.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Models\\Respons\\ProductResponse.cs",
+              "RelativeToolTip": "Myfunction\\Models\\Respons\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:37:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Static\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Static\\ProductValidator.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Static\\ProductValidator.cs",
+              "RelativeToolTip": "Myfunction\\Static\\ProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:49:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Program.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Program.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Program.cs",
+              "RelativeToolTip": "Myfunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:25:06.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProducts.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Functions\\GetAllProducts.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Functions\\GetAllProducts.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Functions\\GetAllProducts.cs",
+              "RelativeToolTip": "Myfunction\\Functions\\GetAllProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:45:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Functions\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Functions\\CreateProduct.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Functions\\CreateProduct.cs",
+              "RelativeToolTip": "Myfunction\\Functions\\CreateProduct.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:45:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\.gitignore",
+              "RelativeDocumentMoniker": "Myfunction\\.gitignore",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\.gitignore",
+              "RelativeToolTip": "Myfunction\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-13T19:06:19.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProducEntity.cs",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\Models\\TableEntitys\\ProducEntity.cs",
+              "RelativeDocumentMoniker": "Myfunction\\Models\\TableEntitys\\ProducEntity.cs",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\Models\\TableEntitys\\ProducEntity.cs",
+              "RelativeToolTip": "Myfunction\\Models\\TableEntitys\\ProducEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:53:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\host.json",
+              "RelativeDocumentMoniker": "Myfunction\\host.json",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\host.json",
+              "RelativeToolTip": "Myfunction\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T19:05:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\repos\\Myfunction\\Myfunction\\local.settings.json",
+              "RelativeDocumentMoniker": "Myfunction\\local.settings.json",
+              "ToolTip": "C:\\repos\\Myfunction\\Myfunction\\local.settings.json",
+              "RelativeToolTip": "Myfunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T19:06:05.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
