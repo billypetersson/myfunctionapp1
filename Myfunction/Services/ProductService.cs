@@ -1,8 +1,8 @@
 ﻿using Azure.Data.Tables;
 using Microsoft.Extensions.Logging;
-using Myfunction.Models.Request;
-using Myfunction.Models.Respons;
-using Myfunction.Models.TableEntitys;
+using Myfunction.Models.Requests;
+using Myfunction.Models.Responses;
+using Myfunction.Models.TableEntities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

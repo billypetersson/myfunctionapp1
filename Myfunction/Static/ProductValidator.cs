@@ -1,4 +1,4 @@
-﻿using Myfunction.Models.Request;
+﻿using Myfunction.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

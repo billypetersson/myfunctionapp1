@@ -10,12 +10,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class ProductFunction
+public class GetProductFunction
 {
     private readonly IProductService _productService;
-    private readonly ILogger<ProductFunction> _logger;
+    private readonly ILogger<GetProductFunction> _logger;
 
-    public ProductFunction(IProductService productService, ILogger<ProductFunction> logger)
+    public GetProductFunction(IProductService productService, ILogger<GetProductFunction> logger)
     {
         _productService = productService ?? throw new ArgumentNullException(nameof(productService));
         _logger = logger ?? throw new ArgumentNullException(nameof(logger));

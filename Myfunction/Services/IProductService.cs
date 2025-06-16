@@ -1,5 +1,5 @@
-﻿using Myfunction.Models.Request;
-using Myfunction.Models.Respons;
+﻿using Myfunction.Models.Requests;
+using Myfunction.Models.Responses;
 using System;
 using System.Collections.Generic;
 using System.Linq;

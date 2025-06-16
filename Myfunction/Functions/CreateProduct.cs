@@ -15,12 +15,12 @@ using System.Threading.Tasks;
 
 namespace Myfunction.Functions
 {
-    public class ProductFunction
+    public class CreateProductFunction
     {
         private readonly IProductService _productService;
-        private readonly ILogger<ProductFunction> _logger;
+        private readonly ILogger<CreateProductFunction> _logger;
 
-        public ProductFunction(IProductService productService, ILogger<ProductFunction> logger)
+        public CreateProductFunction(IProductService productService, ILogger<CreateProductFunction> logger)
         {
             _productService = productService ?? throw new ArgumentNullException(nameof(productService));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
