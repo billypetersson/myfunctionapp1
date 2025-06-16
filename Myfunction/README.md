@@ -76,12 +76,12 @@ Myfunction/
 │   ├── CreateProduct.cs    # CreateProduct function
 │   └── GetAllProducts.cs   # GetAllProducts function
 ├── Models/
-│   ├── Request/
+│   ├── Requests/
 │   │   └── CreateProductRequest.cs
-│   ├── Respons/            # Note: Contains typo in original
+│   ├── Responses/            # Note: Contains typo in original
 │   │   ├── ProductResponse.cs
 │   │   └── ApiErrorResponse.cs
-│   └── TableEntitys/
+│   └── TableEntities/
 │       └── ProducEntity.cs # ProductEntity for Table Storage
 ├── Services/
 │   ├── IProductService.cs  # Service interface
