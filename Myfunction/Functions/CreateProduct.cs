@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
-using Myfunction.Models.Request;
-using Myfunction.Models.Respons;
+using Myfunction.Models.Requests;
+using Myfunction.Models.Responses;
 using Myfunction.Services;
 using Myfunction.Static;
 using System;

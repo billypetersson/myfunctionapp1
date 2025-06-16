@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
-using Myfunction.Models.Respons;
+using Myfunction.Models.Responses;
 using Myfunction.Services;
 using System;
 using System.Collections.Generic;

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Myfunction.Models.Request
+namespace Myfunction.Models.Requests
 {
     // DTOs for API requests/responses
     public class CreateProductRequest
