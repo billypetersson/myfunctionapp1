@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Myfunction.Models.TableEntitys
+namespace Myfunction.Models.TableEntities
 {
     // Product entity for Table Storage
     public class ProductEntity : ITableEntity

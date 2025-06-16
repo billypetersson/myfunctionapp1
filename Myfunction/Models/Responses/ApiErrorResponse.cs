@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Myfunction.Models.Respons
+namespace Myfunction.Models.Responses
 {
     public class ApiErrorResponse
     {
