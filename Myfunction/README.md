@@ -33,7 +33,7 @@ A serverless REST API for product management built with Azure Functions, .NET 9,
    ```
 4. Run locally:
    ```bash
-   func start
+   func start --port 7133
    ```
 
 ### Deploy to Azure
@@ -71,14 +71,30 @@ All endpoints require function-level keys. Include the key in requests:
 ## Project Structure
 
 ```
+Myfunction/
 ├── Functions/
-│   ├── CreateProduct.cs
-│   └── GetAllProducts.cs
+│   ├── CreateProduct.cs    # CreateProduct function
+│   └── GetAllProducts.cs   # GetAllProducts function
 ├── Models/
-│   ├── ProductEntity.cs
-│   └── CreateProductRequest.cs
-├── host.json
-└── local.settings.json
+│   ├── Request/
+│   │   └── CreateProductRequest.cs
+│   ├── Respons/            # Note: Contains typo in original
+│   │   ├── ProductResponse.cs
+│   │   └── ApiErrorResponse.cs
+│   └── TableEntitys/
+│       └── ProducEntity.cs # ProductEntity for Table Storage
+├── Services/
+│   ├── IProductService.cs  # Service interface
+│   └── ProductService.cs   # Service implementation
+├── Static/
+│   └── ProductValidator.cs # Input validation
+├── Properties/
+│   ├── launchSettings.json
+│   ├── serviceDependencies.json
+│   └── serviceDependencies.local.json
+├── host.json              # Function app configuration
+├── Myfunction.csproj      # Project file
+└── .gitignore
 ```
 
 ## Environment Variables
@@ -87,6 +103,19 @@ All endpoints require function-level keys. Include the key in requests:
 |----------|-------------|
 | `AzureWebJobsStorage` | Azure Storage connection string |
 | `APPLICATIONINSIGHTS_CONNECTION_STRING` | Application Insights configuration |
+
+## Function Configuration
+
+The app uses the following configuration in `host.json`:
+- Function timeout: 5 minutes
+- Route prefix: "api"
+- Application Insights sampling enabled
+
+## Known Issues to Fix
+
+1. **Duplicate class names**: Both function files contain `ProductFunction` class
+2. **Namespace typo**: `Respons` should be `Responses`
+3. **Missing imports**: Some using statements may be missing
 
 ## Documentation
 
